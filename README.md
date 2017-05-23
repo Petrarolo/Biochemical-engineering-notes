@@ -3,7 +3,7 @@
 
 ### 1. Introduction and bio basics
    
- * [Introduction and bio basics](https://nbviewer.jupyter.org/github/Petrarolo/Biochemical-engineering-notes/blob/master/Introduction%20and%20bio%20background/Intro%20and%20bio%20background.ipynb)
+ * [Introduction and bio basics](https://nbviewer.jupyter.org/github/Petrarolo/Biochemical-engineering-notes/blob/master/1%20Introduction%20and%20bio%20background/Intro%20and%20bio%20background.ipynb)
     
 ### 2. Basic biochemistry
  * [Basic biochemistry](https://nbviewer.jupyter.org/github/Petrarolo/Biochemical-engineering-notes/blob/master/2%20Basic%20biochemistry/Basic%20Biochemistry.ipynb) 
