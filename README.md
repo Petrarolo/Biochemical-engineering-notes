@@ -95,5 +95,8 @@
   * [Tutorial 12](https://nbviewer.jupyter.org/github/Petrarolo/Biochemical-engineering-notes/blob/master/7%20Fed-batch%20and%20continuous%20fermenters/Fed-batch%20fermenters.ipynb?flush_cache=true)
    
   * [Tutorial 13](https://nbviewer.jupyter.org/github/Petrarolo/Biochemical-engineering-notes/blob/master/7%20Fed-batch%20and%20continuous%20fermenters/Continuous%20fermentation.ipynb)
+      
+  * ### Tutorials for revision
    
+  * [Tutorial 19, fix link](https://nbviewer.jupyter.org/github/Petrarolo/Biochemical-engineering-notes/blob/master/7%20Fed-batch%20and%20continuous%20fermenters/Fed-batch%20fermenters.ipynb?flush_cache=true)
   
