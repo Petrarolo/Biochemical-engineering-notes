@@ -8,7 +8,7 @@
 ### 2. Basic biochemistry
  * [Basic biochemistry](https://nbviewer.jupyter.org/github/Petrarolo/Biochemical-engineering-notes/blob/master/2%20Basic%20biochemistry/Basic%20Biochemistry.ipynb) 
     
- ### 3. Stoichiometry without internal reactions
+### 3. Stoichiometry without internal reactions
     
    * [3.1 Defining rates and yields and balancing equations](https://nbviewer.jupyter.org/github/Petrarolo/Biochemical-engineering-notes/blob/master/3%20Stoichiometry%20without%20internal%20reactions/Defining%20rates%20and%20yields%20and%20balancing%20equations.ipynb)
     
@@ -17,7 +17,7 @@
    * [3.3 Degree of reduction balances](https://nbviewer.jupyter.org/github/Petrarolo/Biochemical-engineering-notes/blob/master/3%20Stoichiometry%20without%20internal%20reactions/Degree%20of%20reduction%20balances.ipynb)
    
     
-  ### 4. Stoichiometry that includes internal reactions 
+### 4. Stoichiometry that includes internal reactions 
     
    * [4.1 Modelling the anabolism](https://nbviewer.jupyter.org/github/Petrarolo/Biochemical-engineering-notes/blob/master/4%20Stoichiometry%20that%20includes%20internal%20reactions/Modelling%20the%20anabolism.ipynb)
     
@@ -25,7 +25,7 @@
     
    * [4.3 TCA cycle and oxidative phosphorylation](https://nbviewer.jupyter.org/github/Petrarolo/Biochemical-engineering-notes/blob/master/4%20Stoichiometry%20that%20includes%20internal%20reactions/TCA%20cycle%20and%20oxidative%20phosphorylation.ipynb)
     
-   ### 5. Basic fermenter modeling
+### 5. Basic fermenter modeling
     
   * [5.1 Real life fermenters](https://nbviewer.jupyter.org/github/Petrarolo/Biochemical-engineering-notes/blob/master/5%20Basic%20bioreactor%20modeling/Real%20life%20fermenters.ipynb)
     
@@ -35,7 +35,7 @@
     
    * [5.4 Understanding growth](https://nbviewer.jupyter.org/github/Petrarolo/Biochemical-engineering-notes/blob/master/5%20Basic%20bioreactor%20modeling/Understanding%20growth.ipynb)
     
-  ### 6. Modeling stoichiometry variations
+### 6. Modeling stoichiometry variations
     
    * [6.1 Altering rates](https://nbviewer.jupyter.org/github/Petrarolo/Biochemical-engineering-notes/blob/master/6%20Modeling%20stoichiometry%20variations/Altering%20rates.ipynb)
     
@@ -45,7 +45,7 @@
     
    * [6.4 Facultative anaerobes](https://nbviewer.jupyter.org/github/Petrarolo/Biochemical-engineering-notes/blob/master/Tutorials/Tut%2011.ipynb)
     
-   ### 7. Fed-batch and continuous fermentation
+### 7. Fed-batch and continuous fermentation
     
   * [7.1 Fed-batch fermentation](https://nbviewer.jupyter.org/github/Petrarolo/Biochemical-engineering-notes/blob/master/7%20Fed-batch%20and%20continuous%20fermenters/Fed-batch%20fermenters.ipynb)
     
@@ -98,5 +98,5 @@
       
   * ### Tutorials for revision
    
-  * [Tutorial 19, fix link](https://nbviewer.jupyter.org/github/Petrarolo/Biochemical-engineering-notes/blob/master/7%20Fed-batch%20and%20continuous%20fermenters/Fed-batch%20fermenters.ipynb?flush_cache=true)
+  * [Tutorial 19, fix link](https://github.com/Petrarolo/Biochemical-engineering-notes/raw/master/Tutorials/Tut%2019%20in%20test%20format.pdf)
   
